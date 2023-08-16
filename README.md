@@ -1,4 +1,4 @@
-# Find Followers Count - LeetCode Problem
+# Find Followers Count
 
 
 Problem Link: [Find Followers Count](https://leetcode.com/problems/find-followers-count/description/?envType=study-plan-v2&envId=top-sql-50)
