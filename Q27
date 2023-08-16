@@ -1,0 +1,4 @@
+select  user_id
+,count(*) followers_count
+from Followers
+GROUP BY user_id
